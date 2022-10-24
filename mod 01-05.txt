@@ -1,0 +1,36 @@
+https://www.youtube.com/watch?v=eesqK59rhGA ( The HTTP Request and response explained
+https://www.youtube.com/watch?v=e3bz4dxoUII ( What is a web service? and why is it called a web service)
+https://www.youtube.com/watch?v=H_XxH66lm3U ( java Hello world with inteliJ idea)
+
+                       MOdule 02 JAVA WEB AND SERVLET---------
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html  ( Maven ) 
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m02/m02p01.html?ou=598218 ( introduction to java web tech)
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m02/m02p02.html?ou=598218 ( understanding http verbs)
+
+
+                      mODULE 03  RESTFUL WEB SERVICES---------- 
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m03/m03p01.html?ou=598218 ( Introduction to rest and rest API )
+https://www.youtube.com/watch?v=sriayOzVaMM  ( installing POstman for MAC )
+https://www.youtube.com/watch?v=XBxtX-tWBr4  ( installing POstman on Ubuntu )
+https://www.postman.com/downloads/  POSTMAN (IMPORTANT) 
+https://restfulapi.net/create-rest-apis-with-jax-rs/ (Create API with JAX-RS)
+ https://www.youtube.com/watch?v=D3nnjmK1GwE(How to Build RESTful Application with JAX-RS 2 and
+IntelliJ IDEA 13)
+
+
+MODULE 04 REST THE CLIENT SIDE --------
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m04/m04p01.html?ou=598218(THE REST API ON THE CLIENT SIDE )
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m04/m04p02.html?ou=598218(GENERATING RESTFUL CLIENT FROM A WADL FILE )
+https://www.baeldung.com/jersey-jax-rs-client( JAX-RS CLIENT WITH JERSEY)
+https://www.youtube.com/watch?v=A1GF5Lyff6g(JERSEY REST CLIENT)
+
+MODULE 05 UNDERSTANDING XML AND JSON DATA TYPE -----------
+https://www.tutorialspoint.com/json/json_java_example.htm(Java Json processing in 3 minutes)
+https://www.youtube.com/watch?v=4rBeFDnw_oo( how to use Json in Java )
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m05/m05p01.html?ou=598218( understanding Json data)
+https://mycourses2.mcgill.ca//content/enforced/598218-1587.202209/Content/videos/m05/m05p02.html?ou=598218(Understanding XML data type)
+https://www.javatpoint.com/json-tutorial(Json tutorial)
+https://www.tutorialspoint.com/json/json_java_example.htm(JSON example)
+https://www.baeldung.com/java-xml(java and xml)
+https://www.baeldung.com/jackson-xml-serialization-and-deserialization(XML Serialization using Jackson)
+https://www.baeldung.com/jackson-object-mapper-tutorial( Jackson object mapper turorial)

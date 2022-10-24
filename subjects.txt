@@ -1,0 +1,6 @@
+Java Web and Servlets Servlet, XML Essentials.
+RESTful Web Services REST 
+Service Deployment and Publishing, JAX-RS Annotations.
+REST, The Client Side JAX-RS Client API, WADL.
+
+Understanding XML and JSON DataTypes Handling ComplexData, Producing and Consuming JSON and XML Web Services.
