@@ -1,0 +1,66 @@
+.header {
+    background-color: #fff8e7;
+    text-align: center;
+    padding: 20px;
+    border: 2px solid #000;
+}
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}
+
+.content {
+    max-width: 1500px;
+    margin: auto;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Create three equal columns that floats next to each other */
+.column-body-left-middle {
+    float: left;
+    width: 30%;
+    border: 2px solid #000;
+    padding: 1em;
+    margin-right:10px;
+    margin-top: 1.5em;
+    height: 200px;
+}
+.column-body-right {
+    float: right;
+    width: 30%;
+    border: 2px solid #000;
+    padding: 1em;
+    margin-top: 1.5em;
+    height: 200px;
+}
+
+.header-mid {
+    text-align: center;
+}
+
+.divided-div
+{
+    text-align: left;
+    display: flex;
+    align-items: center;
+    border: 2px solid #000;
+    justify-content: center;
+    height: 100px;
+    width:98%;
+    padding: 1em;
+    margin-top: 1.5em;
+}
+
+/* Clear floats after the columns */
+/* .row-body:after {
+    content: "";
+    display: table;
+    clear: both;
+} */
