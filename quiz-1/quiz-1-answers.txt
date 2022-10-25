@@ -1,0 +1,60 @@
+2. True
+3. False
+4. True
+5. False
+6. doService
+7. True
+8. True
+9. True
+10. All of the above
+11. JAX-RS Proxy-based client
+12. All of the above
+13. Content-type
+14. Response Cookies
+15. Marshaller, Jackson
+16. 
+Java API for RESTful Web Services (JAX-RS) is a Java programming language API spec that provides support in creating web services according to the Representational State Transfer (REST) architectural pattern. 
+Example:
+import java.util.List;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+@Path("/usersrepository") 
+public class UsersService { 
+	UsersCollection users = new UsersCollection(); 
+
+	@GET
+	@Path("/users")
+	@Produces(MediaType.APPLICATION_XML)
+	public List<User> getUsers(){ 
+		return users.getAllUsers(); 
+	}
+
+
+17. Web.xml contains server mapping, definitions for the servlets and mapping for the servlets. Example:
+<servlet-mapping>
+    <servlet-name>EmailListServlet</servlet-name>
+    <url-pattern>/email/*</url-pattern>
+</servlet-mapping>
+
+18. It looks in a list of books by an id of the book. It is a path parameter in a REST service technology. 
+The above statement will fetch a specific book by an id (for example: en) from a list of books.
+19. 
+
+@Path("/myrestservicebase")
+public class MyRestService { 
+	@GET
+	@Path("/mymethodendpoint")
+	@Produces(MediaType.TEXT_PLAIN)
+	@Consumes(MediaType.TEXT_PLAIN)
+	public String myMethod(@QueryParam(value="one") String one, @QueryParam(value="two") String two){ 
+		return (one + two); 
+	}
+20. 
+Service URL:
+http://localhost:8080/myapp/myrestservicebase/mymethodendpoint?one=ABC&two=EFG%20HI
+
+21. curl -X GET 
+	-H "Content-Type: text/plain" "http://localhost:8080/myapp/myrestservicebase/mymethodendpoint?one=ABC&two=EFG%20HI"
