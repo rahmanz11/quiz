@@ -1,0 +1,108 @@
+.header {
+    background-color: #FFC0CB;
+    text-align: center;
+    border: 2px solid #000;
+    padding: 10px;
+    border: 3px dashed gray;
+}
+
+.header-mid {
+    text-align: center;
+}
+
+a,
+a:visited,
+a:hover,
+a:active {
+    color: inherit;
+}
+
+.anchor {
+    background-color: #87CEEB;
+    color: blue;
+    font-weight: bold;
+    width: 14.92%;
+    border: 2px solid #000;
+    line-height: 10px;
+    padding: 10px;
+    position: relative;
+    text-align: center;
+    margin-top: 1em;
+    height: 10px;
+    display: inline-block;
+    border: 3px dashed gray;
+}
+
+.content {
+    max-width: 90%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.intro-artichle {
+    float: left;
+    background-color: #F1E488;
+    width: 32%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 300px;
+    border: 3px dashed gray;
+    margin-right: 10px;
+    margin-top: 1em;
+    height: 60%;
+    min-height: 100%;
+}
+
+.main-artichle {
+    float: left;
+    background-color: #F1E488;
+    width: 32%;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 18px;
+    border: 3px dashed gray;
+    margin-right: 10px;
+    margin-top: 1em;
+    height: 60%;
+    min-height: 100%;
+}
+
+.aside-top {
+    background-color: #FFFF00;
+    float: right;
+    width: 30%;
+    border: 2px solid #000;
+    margin-top: 1em;
+    height: 203px;
+    padding: 10px;
+    border: 3px dashed gray;
+}
+
+.aside-bottom {
+    background-color: #FFFF00;
+    float: right;
+    width: 30%;
+    border: 2px solid #000;
+    padding: 10px;
+    border: 3px dashed gray;
+    margin-top: 1em;
+    height: 203px;
+}
+
+.footer {
+    background-color: gray;
+    color: white;
+    width: 20%;
+    padding: 10px;
+    border: 3px dashed white;
+    position: relative;
+    text-align: left;
+    margin-top: 1em;
+    height: 80px;
+    display: inline-block;
+}
