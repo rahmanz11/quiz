@@ -1,0 +1,35 @@
+1. True
+2. Binding
+3. False
+4. @WebService(name = "MyWebservice", targetNamespace = "http://mywebservice.com/")
+@SOAPBinding(style = SOAPBinding.Style.RPC)
+public interface MyWebservice {
+    @WebMethod
+    @WebResult(partName = "return")
+    public Integer returnNumber() {
+	  return 5;
+	}
+}
+5. True
+6. False
+7. True
+8. @Patha
+
+9. Marshalling
+10. binding
+11. JSON is language dependent
+12. messages
+13. ClassC
+14. Design
+15. name-value pair
+16. SOAP is not a protocol
+17. 1.2
+18. True
+19. Body
+20. False
+21. Fault
+22. True
+23. JAX-WS
+24. True
+25. all choices are correct
+26. W3C
